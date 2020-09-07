@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hi there, I'm Raj 👋 🧑🏻‍💻 </h2>
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> :octocat: My Stats 
+![Github stats](https://github-readme-stats.vercel.app/api?username=hemil19&show_icons=true&hide_border=true)
