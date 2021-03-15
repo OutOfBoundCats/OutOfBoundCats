@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <h2> Hi there, I'm Raj 👋 🧑🏻‍💻 </h2>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> :octocat: My Stats 
-![Github stats](https://github-readme-stats.vercel.app/api?username=OutOfBoundCats&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutOfBoundCats&langs_count=10&layout=compact&count_private=true)](https://github.com/OutOfBoundCats/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=OutOfBoundCats&count_private=true&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OutOfBoundCats&count_private=true&langs_count=30&layout=compact)](https://github.com/OutOfBoundCats/github-readme-stats)
